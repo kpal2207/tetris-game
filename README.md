@@ -23,13 +23,13 @@ A  Tetris Game implementation in C++ using console graphics.
 ## Requirements
 
 - MacOS
-- C++ compiler (tested with g++ and MSVC)
-- `<conio.h>` library for keyboard input
+- C++ compiler (tested with g++ or any standard-compliant compiler)
+- Standard C++ libraries: `<iostream>`, `<vector>`, `<locale.h>`, `<unistd.h>`, `<cstdlib>`, `<ctime>`
 
 ## Installation
 
 1. Clone this repository or download the source files
-2. Compile the code using your preferred C++ compiler: g++ tetris.cpp -o tetris
+2. Compile the code using your preferred C++ compiler: g++ -std=c++11 tetris.cpp -lncurses
 3. Run the executable: ./tetris
 
 
