@@ -45,6 +45,7 @@ A  Tetris Game implementation in C++ using console graphics.
 |       Q      | Quit game            |
 |       G      | Hold Piece           |
 |       R      | Resume               |
+|       H      | Hard Drop            |
 
 ## Game Mechanics
 
