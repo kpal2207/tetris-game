@@ -15,10 +15,13 @@ A  Tetris Game implementation in C++ using console graphics.
 ## Features
 
 - Tetris gameplay with 7 different tetromino shapes
-- Score system with high score tracking
-- Colorful console interface
-- Keyboard controls for movement and rotation
-- Game speed increases as you play
+- Piece rotation and movement
+- Line clearing and scorin
+- Next piece preview
+- Piece holding functionality
+- Pause/resume game
+- Colorful display
+
 
 ## Requirements
 
