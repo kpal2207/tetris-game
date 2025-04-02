@@ -32,7 +32,7 @@ A  Tetris Game implementation in C++ using console graphics.
 ## Installation
 
 1. Clone this repository or download the source files
-2. Compile the code using your preferred C++ compiler: g++ -std=c++11 tetris.cpp -lncurses
+2. Compile the code using your preferred C++ compiler: g++ -o tetris -std=c++11 tetris.cpp -lncurses
 3. Run the executable: ./tetris
 
 
